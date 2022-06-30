@@ -103,6 +103,7 @@ npm install @discordjs/builders
 ```sh:no-line-numbers
 yarn add @discordjs/builders
 ```
+
 :::
 ::: code-group-item pnpm
 ```sh:no-line-numbers
